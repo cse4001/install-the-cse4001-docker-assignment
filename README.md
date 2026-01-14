@@ -53,7 +53,4 @@ The image below is **only an example** demonstrating how to embed an image in Ma
 
 ![Example image](example.png)
 
-Test
-
-![Example image](screenshot.jpg)
 
