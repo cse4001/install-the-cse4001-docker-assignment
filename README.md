@@ -30,21 +30,20 @@ Once OS/161 is running, you must make a small modification to the kernel, rebuil
 
 - Update this `README.md` file to include **a screenshot** showing OS/161 successfully booting with your name visible in the boot output.
 - The screenshot must be:
-  - A valid image format (e.g., `.png`, `.jpg`, or `.gif`)
-  - Uploaded to this repository
+  - A valid `.jpg` image format, with file named `screenshot.jpg`. 
+  - Uploaded to this repository.
   - Properly displayed in this README using Markdown image syntax. Once you commit the changes, reload the repository on GitHub to ensure that the screenshot figure renders properly. 
 
 ### Screenshot Guidelines
 
 The goal is to quickly and clearly verify that the assignment tasks were completed. Capture a single screenshot that shows the OS/161 boot output with your name visible.
 
+
 ------
 
 ## Screenshots
 
 > **Replace the placeholder below with your own screenshot.**
-
-${\color{red}{\text{Add screenshots here!!}}}$
 
 The image below is **only an example** demonstrating how to embed an image in Markdown.
  To include your actual screenshot:
